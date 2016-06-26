@@ -1,7 +1,5 @@
 # ELK
 
-elk project
-
 ## Introduction
 
 ## Background
